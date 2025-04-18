@@ -1,0 +1,9 @@
+To build the app, I followed a structured approach by organizing the project inside the lib folder into three main directories: bloc, widget, and screen. Inside the screen folder, I created two subfolders: home and product to separate UI concerns.
+
+In the bloc directory, I created three essential files: product_event.dart, product_state.dart, and product_bloc.dart to implement the BLoC pattern for managing product-related logic.
+
+After designing the UI and connecting the app to Firebase Firestore, I defined the necessary events and states, then wrote the logic inside the BLoC to handle data fetching and search functionality.
+
+Once the BLoC logic was complete, I integrated it with the main UI. I updated the UI to reflect the BLoC-driven state changes, including search filtering and infinite scrolling with pagination.
+
+Finally, I implemented SharedPreferences to cache the product data locally, enabling offline access and improving performance.
