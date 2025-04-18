@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "484768890533",
+    "project_id": "instax-c8216",
+    "storage_bucket": "instax-c8216.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484768890533:android:29eb34e0ee5e7905b1974c",
+        "android_client_info": {
+          "package_name": "com.example.bloc_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEU-TFkVsacSlcy9efAlm0XqGHe_oX_t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
